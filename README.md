@@ -1,5 +1,11 @@
 # monta-imagem
 
+## Licença
+
+Este projeto está licenciado sob os termos da **MIT License com Commons Clause**, permitindo uso comunitário e pessoal, mas **proibindo uso comercial**.
+
+Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
