@@ -1,4 +1,6 @@
-# monta-imagem
+# Monta Imagem
+
+Aplicação em VueJs 3 para montar tiles de imagens de alta definição do Google Art & Culture.
 
 ## Licença
 
